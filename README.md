@@ -5,4 +5,5 @@ Celem projektu bylo zaimplemenowanie wlasnych struktur oraz zbadanie ich efektyw
 
 Etap 1: Lista, Kopiec, Tablica
 
-Etap 2: Graf
+Etap 2: Graf - Algorytm Prima
+             - Algorytm Dijkstry
